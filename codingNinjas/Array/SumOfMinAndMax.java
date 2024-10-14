@@ -1,8 +1,8 @@
-package codingNinjas;
+
 
 import java.util.* ;
-import java.io.*; 
-public class SumOFMinAndMax {
+
+public class SumOfMinAndMax {
   public static int sumOfMaxMin(int[] arr, int n) {
       // Write your code here.
       
