@@ -49,8 +49,8 @@
 // 1. Try to think by creating another array
 // 2. Try to think which elements are beign swapped.
 
-import java.util.* ;
-import java.io.*; 
+// import java.util.* ;
+// import java.io.*; 
 import java.util.ArrayList;
 
 public class ReversingTheArray 
