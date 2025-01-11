@@ -1,5 +1,8 @@
 	// Following is the structure of the Singly Linked List.	
-	class LinkedListNode<T> 
+
+
+
+class LinkedListNode<T> 
     {
     	T data;
     	LinkedListNode<T> next;
@@ -21,6 +24,7 @@ public class reverseLinkedList {
 		LinkedListNode<Integer> prev =null;
 		LinkedListNode<Integer> current = head;
 		LinkedListNode<Integer> next = head.next;
+		
 		while(next!=null){
 			current.next = prev;
 			
