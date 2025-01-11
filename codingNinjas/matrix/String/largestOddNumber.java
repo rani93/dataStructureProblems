@@ -1,7 +1,7 @@
 package String;
 
 public class largestOddNumber {
-    public String largestOddNumber(String num) {
+    public String largestOddNumbe(String num) {
         for(int i= num.length()-1;i>=0;i--){
             int digit = Integer.parseInt(num.charAt(i)+"");
             if(digit%2!=0){
