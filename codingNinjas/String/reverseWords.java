@@ -1,7 +1,7 @@
 package String;
 
 public class reverseWords {
-    public String reverseWords(String s) {
+    public String reverseWord(String s) {
         String answer="" ;
         for(int i=0;i<s.length();i++){
          if(s.charAt(i)==' ') continue;
