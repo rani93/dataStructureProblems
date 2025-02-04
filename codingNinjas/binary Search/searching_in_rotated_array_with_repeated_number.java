@@ -1,6 +1,6 @@
 public class searching_in_rotated_array_with_repeated_number {
     public boolean search(int[] arr, int target) {
-        // editing the file
+        
         int low=0;
         int high = arr.length-1;
         while(low<=high){
