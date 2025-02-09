@@ -3,4 +3,5 @@
 --5- feb : Binary Search to find X in sorted array <br>
 --6-feb : Minimum Number of Days to Make m Bouquets, Single Element in a Sorted Array<br>
 --8-feb: Koko Eating Bananas, Minimum days to make M bouquets<br>
---9-feb : Kth Missing Positive Number
+--9-feb : Kth Missing Positive Number, Book Allocation Problem<br>
+
